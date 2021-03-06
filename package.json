@@ -4,7 +4,9 @@
   "description": "Learning fun times!",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier . -w",
+    "start": "node src/app.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/coltonb/learning-fun-times/issues"
   },
-  "homepage": "https://github.com/coltonb/learning-fun-times#readme"
+  "homepage": "https://github.com/coltonb/learning-fun-times#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
 }
