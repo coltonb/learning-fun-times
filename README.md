@@ -8,8 +8,12 @@
 
 ## Setting up Development Environment
 
-- Execute `npm install`
+- `npm install`
 
 ## Static Analysis / Formatting
 
-- Execute `npm run format` to format code.
+- `npm run format` to format code.
+
+## Running Locally
+
+- `npm start` hosts the application locally.
