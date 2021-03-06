@@ -1,0 +1,19 @@
+{
+  "name": "learning-fun-times",
+  "version": "1.0.0",
+  "description": "Learning fun times!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coltonb/learning-fun-times.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coltonb/learning-fun-times/issues"
+  },
+  "homepage": "https://github.com/coltonb/learning-fun-times#readme"
+}
